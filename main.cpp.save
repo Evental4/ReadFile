@@ -1,0 +1,14 @@
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main()
+{
+
+
+    ifstream file("вопросы.txt");
+    
+    string str = getlain()
+    //cout <<  << endl;
+    return 0;
+}
